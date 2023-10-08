@@ -1,7 +1,7 @@
 ## Hello I'm Melo 🖐️
 
 
-![Melo GitHub stats](https://github-readme-stats.vercel.app/api?username=melo-06&show_icons=true&theme=dracula&count_private=true)
+![Melo's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=melo-06&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)
 
 ## What do I use
 
